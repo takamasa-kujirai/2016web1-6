@@ -7,6 +7,11 @@ background-color: #D0E0C0;
 float: left;
 width: 468px;
 }
+dt{
+  clear:left;
+  float:left;
+  font-weight:bold;
+}
 
 .btn{
 -webkit-appearance: none;
