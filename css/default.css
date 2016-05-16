@@ -38,20 +38,19 @@ background-color:red;
 border:2px solid lightcoral;
 border-collapse:collapse;
 }
+caption{
+  paddin: 5px
+}
 #price{
 background-color:lightyellow;
 }
 thead th,tfoot th{
 background-color:white;
-padding: 5px;
-width: 100px;
 text-align:right;
 }
 thead td{
-  color:white;
-background-color: lightcoral;
-padding: 5px;
-width: 80px;
+color:white;
+background-color:lightcoral;
 text-align:center;
 }
 tfoot td{
