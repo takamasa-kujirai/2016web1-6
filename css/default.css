@@ -41,14 +41,14 @@ border-collapse:collapse;
 #price{
 background-color:lightyellow;
 }
-th{
+thead th,tfoot th{
 border:1px solid lightcoral;
 background-color:mistyrose;
 padding: 5px;
 width: 100px;
 text-align:center;
 }
-td{
+thead td{
 border:1px solid lightcoral;
 padding: 5px;
 width: 80px;
