@@ -41,15 +41,19 @@ caption{
 background-color:lightyellow;
 }
 thead th,tfoot th{
+border:2px solid lightcoral;
 background-color:white;
-text-align:right;
+
+text-align:left;
 }
 thead td{
+border:2px solid lightcoral;
 color:white;
 background-color:lightcoral;
 text-align:center;
 }
 tfoot td{
+border:2px solid lightcoral;
 font-weight:bold;
 background-color:white;
 }
