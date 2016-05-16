@@ -42,17 +42,17 @@ border-collapse:collapse;
 background-color:lightyellow;
 }
 thead th,tfoot th{
-border:1px solid lightcoral;
-background-color:mistyrose;
+background-color:white;
 padding: 5px;
 width: 100px;
-text-align:center;
+text-align:right;
 }
 thead td{
-border:1px solid lightcoral;
+  color:white;
+background-color: lightcoral;
 padding: 5px;
 width: 80px;
-text-align:right;
+text-align:center;
 }
 tfoot td{
 font-weight:bold;
