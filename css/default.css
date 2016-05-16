@@ -1,0 +1,72 @@
+body{
+background-color: #D0E0C0;
+}
+
+#main{
+
+
+}
+
+.explanation{
+float: left;
+width: 468px;
+}
+
+.btn{
+-webkit-appearance: none;
+margin: 7px;
+width: 100px;
+height: 40px;
+padding: 10px;
+border: none;
+font-size: 16px;
+}
+.btn:hover{
+opacity:3;
+}
+.btn:active{
+color:white;
+}
+.btn-submit{
+background-color:silver;
+}
+.btn-reset{
+background-color:red;
+}
+
+#ingredient{
+border:2px solid lightcoral;
+border-collapse:collapse;
+}
+#price{
+background-color:lightyellow;
+}
+th{
+border:1px solid lightcoral;
+background-color:mistyrose;
+padding: 5px;
+width: 100px;
+text-align:center;
+}
+td{
+border:1px solid lightcoral;
+padding: 5px;
+width: 80px;
+text-align:right;
+}
+tfoot td{
+font-weight:bold;
+background-color:white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
